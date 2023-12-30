@@ -1,0 +1,30 @@
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.pdb

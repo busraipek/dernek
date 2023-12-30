@@ -1,0 +1,18 @@
+C:\Users\90505\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\90505\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
