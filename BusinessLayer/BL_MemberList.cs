@@ -11,7 +11,7 @@ namespace BusinessLayer
 {
     public class BL_MemberList
     {
-        public void GetMember(string[,] membersArray,int durum)
+        public void GetMember(string[,] membersArray,string kimlik,int durum)
         {
             OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
             {
@@ -22,13 +22,18 @@ namespace BusinessLayer
                     if (durum == 0)
                     {
                     query = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, ad.aidat_id, u.kimlik_no, ad.odeme_tarihi " +
-                            "FROM((aidat a INNER JOIN aidat_durum ad ON a.id = ad.aidat_id) INNER JOIN uye u ON ad.kimlik_no = u.kimlik_no) ";
+                            "FROM((aidat a INNER JOIN aidat_durum ad ON a.id = ad.aidat_id) INNER JOIN uye u ON ad.kimlik_no = u.kimlik_no) order by u.ad";
+                    }
+                    else if (durum == 1)
+                    {
+                        query = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, ad.aidat_id, u.kimlik_no, ad.odeme_tarihi " +
+                                "FROM((aidat a INNER JOIN aidat_durum ad ON a.id = ad.aidat_id) INNER JOIN uye u ON ad.kimlik_no = u.kimlik_no) where u.kimlik_no= '"+kimlik+" order by u.ad'";
                     }
                     else
                     {
                     query = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, ad.aidat_id, u.kimlik_no, ad.odeme_tarihi " +
                                    "FROM aidat a, aidat_durum ad, uye u " +
-                                   "WHERE a.id=ad.aidat_id AND ad.kimlik_no=u.kimlik_no AND ad.durum = 'Ödenmedi'";
+                                   "WHERE a.id=ad.aidat_id AND ad.kimlik_no=u.kimlik_no AND ad.durum = 'Ödenmedi' order by u.ad";
                     }
                     using (OleDbCommand komut = new OleDbCommand(query, connection))
                     {
