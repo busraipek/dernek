@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="City.cs" />
+    <Compile Include="Connection.cs" />
     <Compile Include="Due.cs" />
     <Compile Include="DuesStatus.cs" />
     <Compile Include="Member.cs" />
