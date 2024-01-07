@@ -10,14 +10,15 @@ namespace BusinessLayer
 {
     public class BL_FilterMember
     {
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public void FilterMember(string[,] membersArray, string filter, string text)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            {
-                string query;
+            OleDbConnection connection = baglanti.ConnectionOpen();
+
+            string query;
                 try
                 {
-                    connection.Open();
                     if (filter == "ad")
                         query = "SELECT ad, soyad, cinsiyet, dogum_tarihi, kimlik_no, kan_grubu, uyelik_durumu, e_posta, sehir FROM uye where ad like '" + text + "%'";
                     else if (filter == "soyad")
@@ -70,9 +71,6 @@ namespace BusinessLayer
                 {
                     throw;
                 }
-
-
-            }
         }
     }
 }

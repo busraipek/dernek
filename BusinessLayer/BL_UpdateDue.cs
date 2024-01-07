@@ -10,11 +10,12 @@ namespace BusinessLayer
 {
     public class BL_UpdateDue
     {
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public void UpdateDue(string[,] dues,string id, string picker, string ucret)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            if (connection.State == System.Data.ConnectionState.Closed)
-                connection.Open();
+            OleDbConnection connection = baglanti.ConnectionOpen();
+
 
             try
             {

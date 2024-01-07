@@ -11,14 +11,15 @@ namespace BusinessLayer
 {
     public class BL_MemberList
     {
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public void GetMember(string[,] membersArray,string kimlik,int durum)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            {
-                string query;
+            OleDbConnection connection = baglanti.ConnectionOpen();
+
+            string query;
                 try
                 {
-                    connection.Open();
                     if (durum == 0)
                     {
                     query = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, ad.aidat_id, u.kimlik_no, ad.odeme_tarihi " +
@@ -27,7 +28,7 @@ namespace BusinessLayer
                     else if (durum == 1)
                     {
                         query = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, ad.aidat_id, u.kimlik_no, ad.odeme_tarihi " +
-                                "FROM((aidat a INNER JOIN aidat_durum ad ON a.id = ad.aidat_id) INNER JOIN uye u ON ad.kimlik_no = u.kimlik_no) where u.kimlik_no= '"+kimlik+" order by u.ad'";
+                                "FROM((aidat a INNER JOIN aidat_durum ad ON a.id = ad.aidat_id) INNER JOIN uye u ON ad.kimlik_no = u.kimlik_no) where u.kimlik_no= '"+kimlik+"' order by u.ad";
                     }
                     else
                     {
@@ -104,7 +105,6 @@ namespace BusinessLayer
                 {
 
                 }
-            }
         }
     }
 }

@@ -13,16 +13,15 @@ namespace BusinessLayer
 {
     public class BL_SendEmail
     {
-            private DataAccessLayer.Sender sender;
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+        private DataAccessLayer.Sender sender;
             public BL_SendEmail()
             {
                 sender = new DataAccessLayer.Sender();
             }
             public void SendMail(List<string> list, string baslik, string konu)
             {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            {
-                connection.Open();
+            OleDbConnection connection = baglanti.ConnectionOpen();
 
                 string query = "SELECT u.e_posta FROM aidat a, aidat_durum ad, uye u where a.id=ad.aidat_id and ad.kimlik_no=u.kimlik_no and ad.durum = 'Ödenmedi' and u.uyelik_durumu= 'Aktif' ";
                 using (OleDbCommand command = new OleDbCommand(query, connection))
@@ -40,7 +39,7 @@ namespace BusinessLayer
                         }
                     }
                 }
-            }
+            
 
             SmtpClient smtp = new SmtpClient();
                 smtp.Credentials = new NetworkCredential(sender.senderEmail, sender.senderpassword);

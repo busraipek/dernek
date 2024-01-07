@@ -10,12 +10,11 @@ namespace BusinessLayer
 {
     public class BL_UpdateMember
     {
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public void UpdateMember(string id, string kimlik, string uyelik, string ucret)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            if (connection.State == System.Data.ConnectionState.Closed)
-                connection.Open();
-
+            OleDbConnection connection = baglanti.ConnectionOpen();
             try
             {
                 string komut = "SELECT u.ad, u.soyad, u.e_posta, u.uyelik_durumu, a.tarih, a.ucret, ad.durum, a.id, u.kimlik_no, ad.odeme_tarihi " +

@@ -11,26 +11,24 @@ namespace BusinessLayer
     public class AddDue
     {
         private BusinessLayer.BL_AddDuetoMember bl_addmember= new BusinessLayer.BL_AddDuetoMember();
+        private DataAccessLayer.Connection connection = new DataAccessLayer.Connection();
 
         public void AddDues()
         {
-            string connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb;";
-            using (OleDbConnection connection = new OleDbConnection(connectionString))
-            {
-                connection.Open();
+            OleDbConnection baglanti = connection.ConnectionOpen();
 
                 DateTime today = DateTime.Now;
 
                 if (today.Day == 1)
                 {
-                    using (OleDbCommand checkCommand = new OleDbCommand("SELECT COUNT(*) FROM aidat WHERE tarih = ?", connection))
+                    using (OleDbCommand checkCommand = new OleDbCommand("SELECT COUNT(*) FROM aidat WHERE tarih = ?", baglanti))
                     {
                         checkCommand.Parameters.AddWithValue("?", today.Date);
                         int count = Convert.ToInt32(checkCommand.ExecuteScalar());
 
                         if (count == 0)
                         {
-                            using (OleDbCommand insertCommand = new OleDbCommand("INSERT INTO aidat (son_odeme, ucret, tarih) VALUES (?, 100, ?)", connection))
+                            using (OleDbCommand insertCommand = new OleDbCommand("INSERT INTO aidat (son_odeme, ucret, tarih) VALUES (?, 100, ?)", baglanti))
                             {
                                 insertCommand.Parameters.AddWithValue("?", today.AddMonths(1).Date);
                                 insertCommand.Parameters.AddWithValue("?", today.Date);
@@ -47,4 +45,4 @@ namespace BusinessLayer
             }
         }
     }
-}
+

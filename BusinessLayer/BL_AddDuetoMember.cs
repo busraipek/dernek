@@ -11,6 +11,7 @@ namespace BusinessLayer
     public class BL_AddDuetoMember
     {
         private DataAccessLayer.Due bl_dues;
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
         public BL_AddDuetoMember()
         {
             bl_dues = new DataAccessLayer.Due();
@@ -19,25 +20,22 @@ namespace BusinessLayer
 
         public void DuetoNewMember(string kimlik, string durum)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
+            OleDbConnection connection = baglanti.ConnectionOpen();
+
+            OleDbCommand query = new OleDbCommand("SELECT max(id) as id from aidat", connection);
             {
-
-                connection.Open();
-                OleDbCommand query = new OleDbCommand("SELECT max(id) as id from aidat", connection);
+                using (OleDbDataReader reader = query.ExecuteReader())
                 {
-                    using (OleDbDataReader reader = query.ExecuteReader())
+                    while (reader.Read())
                     {
-                        while (reader.Read())
-                        {
-                            int aidat_id = (int)reader["id"];
+                        int aidat_id = (int)reader["id"];
 
-                            OleDbCommand komut = new OleDbCommand("insert into aidat_durum (aidat_id,kimlik_no,durum) values (@aidat_id,@kimlik_no,@durum)", connection);
-                            {
-                                komut.Parameters.AddWithValue("@aidat_id", aidat_id);
-                                komut.Parameters.AddWithValue("@kimlik_no", kimlik);
-                                komut.Parameters.AddWithValue("@durum", durum);
-                                komut.ExecuteNonQuery();
-                            }
+                        OleDbCommand komut = new OleDbCommand("insert into aidat_durum (aidat_id,kimlik_no,durum) values (@aidat_id,@kimlik_no,@durum)", connection);
+                        {
+                            komut.Parameters.AddWithValue("@aidat_id", aidat_id);
+                            komut.Parameters.AddWithValue("@kimlik_no", kimlik);
+                            komut.Parameters.AddWithValue("@durum", durum);
+                            komut.ExecuteNonQuery();
                         }
                     }
                 }
@@ -45,11 +43,9 @@ namespace BusinessLayer
         }
         public void DuetoMember()
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            {
+            OleDbConnection connection = baglanti.ConnectionOpen();
 
-                connection.Open();
-                OleDbCommand query = new OleDbCommand("SELECT max(id) as id from aidat", connection);
+            OleDbCommand query = new OleDbCommand("SELECT max(id) as id from aidat", connection);
                 {
                     using (OleDbDataReader reader = query.ExecuteReader())
                     {
@@ -79,7 +75,6 @@ namespace BusinessLayer
                         }
                     }
                 }
-            }
         }
     }
 }

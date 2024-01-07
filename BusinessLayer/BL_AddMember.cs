@@ -11,6 +11,8 @@ namespace BusinessLayer
     public class BL_AddMember
     {
         public int boole = 0;
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public bool BL_FillBar()
         {
             if (boole == 0)
@@ -23,9 +25,8 @@ namespace BusinessLayer
         public void AddMember(string ad,string soyad,string cins, string kn,DateTime dt,  string kg,string uye, string ep,string sehir)
         {
 
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");               
-                if (connection.State == System.Data.ConnectionState.Closed)
-                connection.Open();
+            OleDbConnection connection = baglanti.ConnectionOpen();
+
             try
             {
                 OleDbCommand komut = new OleDbCommand("insert into uye" +

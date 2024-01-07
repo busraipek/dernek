@@ -12,15 +12,15 @@ namespace BusinessLayer
     public class BL_UniqueMember
     {
         private DataAccessLayer.Sender sender;
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public BL_UniqueMember()
         {
             sender = new DataAccessLayer.Sender();
         }
         public void UniqueMember(string[,] duestats, DateTime ilkpicker, DateTime sonpicker, string durumu)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            if (connection.State == System.Data.ConnectionState.Closed)
-                connection.Open();
+            OleDbConnection connection = baglanti.ConnectionOpen();
 
             try
             {

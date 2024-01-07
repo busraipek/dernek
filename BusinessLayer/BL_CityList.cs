@@ -10,13 +10,13 @@ namespace BusinessLayer
 {
     public class BL_CityList
     {
+        private DataAccessLayer.Connection baglanti = new DataAccessLayer.Connection();
+
         public void GetCities(List<string> cities)
         {
-            OleDbConnection connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\\Users\\90505\\Desktop\\db.accdb");
-            {
-                connection.Open();
+            OleDbConnection connection = baglanti.ConnectionOpen();
 
-                string query = "SELECT sehir FROM sehir";
+            string query = "SELECT sehir FROM sehir";
                 using (OleDbCommand command = new OleDbCommand(query, connection))
                 {
                     using (OleDbDataReader reader = command.ExecuteReader())
@@ -32,7 +32,6 @@ namespace BusinessLayer
                         }
                     }
                 }
-            }
         }
     }
 }
