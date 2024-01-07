@@ -1,0 +1,165 @@
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\source\repos\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.PL_AddMember.resources
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.PL_HomePage.resources
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.PL_CurrentDue.resources
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.PL_DuesStatusOfMembers.resources
+C:\Users\90505\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_CurrentDue.resources
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_DuesStatusOfMembers.resources
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_HomePage.resources
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_AddMember.resources
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.barcodes.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.commons.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.forms.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.io.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.kernel.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.layout.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.pdfa.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.sign.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.styledxmlparser.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.svg.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itextsharp.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Buffers.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Memory.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.barcodes.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.commons.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.forms.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.io.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.kernel.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.layout.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.pdfa.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.sign.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.styledxmlparser.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.svg.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itextsharp.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Buffers.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Memory.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mertr\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.barcodes.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.commons.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.forms.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.io.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.kernel.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.layout.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.pdfa.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.sign.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.styledxmlparser.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.svg.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itextsharp.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Buffers.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Memory.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.barcodes.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.commons.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.forms.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.io.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.kernel.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.layout.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.pdfa.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.sign.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.styledxmlparser.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itext.svg.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\itextsharp.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Buffers.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Memory.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_CurrentDue.resources
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_DuesStatusOfMembers.resources
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_HomePage.resources
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_AddMember.resources
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\PresentationLayer\obj\Debug\PresentationLayer.PL_UniqueMemberForm.resources
